@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style5.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style5.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle10.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle10.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a8.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a8.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backup_restore.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_backup_restore.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a22.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a22.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle11.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle11.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a7.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a19.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a19.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle1.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle1.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a23.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a23.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle12.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle12.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle5.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle5.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style10.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style10.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.jpg",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\weather.jpg"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style4.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style4.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style7.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style7.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle4.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle4.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle7.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle7.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_main.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\dialog_bg_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style11.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style11.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle11.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle11.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle10.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle10.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a17.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a17.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a11.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a11.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a5.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle13.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle13.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_framework.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_framework.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a4.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle2.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle2.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle8.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle8.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style17.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style17.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style13.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style13.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a12.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a15.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a15.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reboot.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_reboot.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle6.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle6.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a18.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a18.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_system_ui.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_system_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a21.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a21.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style9.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style9.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle9.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle9.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a24.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a24.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification_panel.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_notification_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\protective_gradient_bottom.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\protective_gradient_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nowidget.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\nowidget.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style3.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style3.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_custom_backgrounds.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_custom_backgrounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style6.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style6.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle3.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle3.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\protective_semi_transparent_black.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\protective_semi_transparent_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle16.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle16.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style15.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style15.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrowstyle2.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\arrowstyle2.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a30.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a30.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a14.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a14.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a2.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a31.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a31.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle5.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle5.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a27.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a27.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle15.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle15.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a1.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrowstyle1.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\arrowstyle1.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inset_dialog_bg.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\inset_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_theme.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\protective_view_gradient_top.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\protective_view_gradient_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_useful_apps.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_useful_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style16.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style16.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style1.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style1.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle4.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle4.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle7.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle7.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_phone.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style14.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style14.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_changelog.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle14.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle14.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a28.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a28.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a33.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a33.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a25.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a25.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style2.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style2.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style12.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style12.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle2.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle2.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a16.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a16.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle1.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle1.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle12.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle12.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle8.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\wifistyle8.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style8.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style8.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a20.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a20.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a26.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a26.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a29.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a29.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lockscreen.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\ic_lockscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a32.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a32.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a10.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a13.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a13.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle9.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle9.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a3.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle6.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle6.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a9.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle3.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\signalstyle3.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\a6.png"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style18.png",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\drawable\\clock_style18.png"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceScreen android:title="Force Restart SystemUI" android:summary="Restart SystemUI On NonRooted Devices ">
+        <intent android:targetPackage="com.android.systemui" android:targetClass="com.android.keyguard.wallpaper.KeyguardWallpaperPreviewActivity" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title=" Torchlight While Screen Off " />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Torchlight While Sreen Off" android:key="torchlight_enable" android:summary=" Turn the flashlight On By Holding Volume Up" />
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/torchlight_timeout_entries" android:title=" Torchlight Off" android:key="torchlight_timeout" android:dependency="torchlight_enable" android:entryValues="@array/torchlight_timeout_values" />
+    <PreferenceCategory android:title="Lockscreen Carrier">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove Carrier" android:key="asc_hide_carrier_lockscreen" android:defaultValue="false" android:summaryOn="Hidden" android:summaryOff="Shown" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Custom text (Only work if carrier hidden)" android:key="asc_CustomTxt_toggle" android:defaultValue="false" android:summaryOn="Enabled" android:summaryOff="Disabled" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Change custom text color" android:key="asc_CustomTxt_color" android:summary="Choose color" android:dependency="asc_CustomTxt_toggle" android:defaultValue="\#ffffff" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference android:title="Change text" android:key="asc_CustomTxt_text" android:summary="Choose text" android:dependency="asc_CustomTxt_toggle" android:defaultValue="Minotaurus Rom" android:dialogTitle="Edit text" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Remove Swipe to unlock text">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove Swipe to unlock text" android:key="asc_no_text_kg" android:defaultValue="false" android:summaryOn="hidden" android:summaryOff="shown" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove charging text" android:key="asc_no_charging_text_kg" android:defaultValue="false" android:summaryOn="Hidden" android:summaryOff="Shown" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Clock and Date (Widgets must be Hidden)">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Show/Hide" android:key="asc_hide_lockscreen_clock" android:defaultValue="true" android:summaryOn="Shown" android:summaryOff="Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Widgets (Clock and Date must be hidden)">
+        <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:title="Lockscreen Widgets" android:key="asc_widget_chooser" android:defaultValue="21" app:packageNameToKill="com.android.systemui" app:isSilent="false" app:drawableArray="@array/widget_drawables" app:entryList="@array/widget_entries" app:entryValuesList="@array/widget_values" />
+    </PreferenceCategory>
+</PreferenceScreen>

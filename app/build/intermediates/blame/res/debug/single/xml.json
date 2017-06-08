@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\phone_prefs.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\phone_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\useful_apps_prefs.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\useful_apps_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\lockscreen_prefs.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\lockscreen_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\launcher.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\notification_panel_prefs.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\notification_panel_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\systemui.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\systemui.xml"
+    },
+    {
+        "merged": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\build\\intermediates\\res\\merged\\debug\\xml\\custom_backgrounds_prefs.xml",
+        "source": "C:\\Users\\JR\\StudioProjects\\NoNaMeRomControl99\\app\\src\\main\\res\\xml\\custom_backgrounds_prefs.xml"
+    }
+]

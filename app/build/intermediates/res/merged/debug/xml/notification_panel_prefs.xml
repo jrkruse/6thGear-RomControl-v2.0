@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceScreen android:title="Force Restart SystemUI" android:summary="Restart SystemUI On NonRooted Devices ">
+        <intent android:targetPackage="com.android.systemui" android:targetClass="com.android.keyguard.wallpaper.KeyguardWallpaperPreviewActivity" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title="Header Icons">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Header Icons" android:key="setting_icon_switch" android:defaultValue="false" android:summaryOn="enabled" android:summaryOff="disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="MoreIconColor" android:key="more_icon_color" android:defaultValue="\#FF252525" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="SettingIconColor" android:key="header_icon_color" android:defaultValue="\#FF252525" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Header Colors">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Header Colors" android:key="pulldown_switch" android:defaultValue="false" android:summaryOn="enabled" android:summaryOff="disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="AmPmTextColor" android:key="pull_ampm_text_color" android:defaultValue="\#FF252525" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="DateTextColor" android:key="pull_date_text_color" android:defaultValue="\#FF252525" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="TimeTextColor" android:key="pull_time_text_color" android:defaultValue="\#FF252525" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Data Usage Options">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Data usage view visibility" android:key="asc_data_usage_visibility" android:defaultValue="true" android:summaryOn="Shown" android:summaryOff="Hidden" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Data usage text color" android:key="asc_data_usage_text_color" android:dependency="asc_data_usage_visibility" android:defaultValue="\#e61e4e78" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/data_usage_gravity_entries" android:title="Data usage text gravity" android:key="asc_data_usage_text_gravity" android:dependency="asc_data_usage_visibility" android:defaultValue="0" android:entryValues="@array/data_usage_gravity_values" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/data_usage_text_style_entries" android:title="Data usage text style" android:key="asc_data_usage_view_text_style" android:dependency="asc_data_usage_visibility" android:defaultValue="0" android:entryValues="@array/data_usage_text_style_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Blur Effect">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="BlurEffect" android:key="asc_enable_blur" android:defaultValue="false" android:summaryOn="Enabled" android:summaryOff="Disabled" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="BlurEffectDegree" android:key="asc_blur_degree_effect" android:dependency="asc_enable_blur" android:defaultValue="3" app:maxValue="20" />
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="BlurEffectBackground" android:key="asc_blur_background_effect" android:dependency="asc_enable_blur" android:defaultValue="128" app:maxValue="250" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Color of Blur" android:key="asc_color_blur" android:dependency="asc_enable_blur" android:defaultValue="\#00000000" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="SFinder">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="SFinder" android:key="asc_hide_sfinder" android:defaultValue="false" android:summaryOn="Hidden" android:summaryOff="Shown" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Multi User Switch">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Show/Hide" android:key="asc_show_multi_user" android:defaultValue="false" android:summaryOn="Shown" android:summaryOff="Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Headsups" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Heads Up Notifications" android:key="heads_up_notifications_enabled" android:defaultValue="true" android:summaryOn="Heads up enabled" android:summaryOff="Heads up disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    <PreferenceCategory android:title="Carrier label text preferences">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Carrier label visibility" android:key="carrier_label_visibility" android:defaultValue="true" android:summaryOn="Show" android:summaryOff="Hide" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Carrier label text color" android:key="carrier_label_text_color" android:dependency="carrier_label_visibility" android:defaultValue="\#ffffff" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/carrier_entries" android:title="Carrier label text" android:key="is_custom_carrier_label" android:dependency="carrier_label_visibility" android:defaultValue="0" android:entryValues="@array/carrier_entry_values" app:dependentValue="0" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference android:title="Custom text for carrier label" android:key="custom_carrier_label" android:dependency="is_custom_carrier_label" android:defaultValue="NoNaMe" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Tiles Colors">
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Icon Color - On" android:key="b_togg_color_on" android:defaultValue="\#ff22c4ff" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Icon Color - Off" android:key="b_togg_color_off" android:defaultValue="\#4d252525" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Icon Color - Editor" android:key="b_togg_color_dis" android:defaultValue="\#ff9e9e9e" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Tile Text Color" android:key="b_togg_color_texto" android:defaultValue="\#ff252525" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Tile divider color" android:key="b_togg_color_div" android:defaultValue="\#33252525" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Background colors">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Expanded view background color" android:key="asc_expanded_switch_bg" android:defaultValue="false" android:summaryOn="enabled" android:summaryOff="disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Header" android:key="asc_header" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Search bar" android:key="asc_qs_sfinder_bar_bg" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Quick toggles" android:key="asc_quick_qs_panel" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Quick settings and brightness" android:key="asc_quick_settings_container" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Data Usage" android:key="asc_data_usage_view" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="QS Detail" android:key="asc_qsdetail" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="QS Customize" android:key="asc_qs_customize" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Notifications">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="BackgroundbehindNotifications" android:key="asc_hide_bg_bg" android:defaultValue="false" android:summaryOn="transparent" android:summaryOff="colored" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Notificationcolors" android:key="asc_notif_main_switch_bg" android:defaultValue="false" android:summaryOn="enabled" android:summaryOff="disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Titletextcolor" android:key="asc_notif_first_text_color" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ff000000" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Secondtextcolor" android:key="asc_notif_second_text_color" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ff000000" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="NotificationBackgroundColor" android:key="asc_notification_bg_color" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="NotificationBottom" android:key="asc_notification_bottom_normal_mode" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ffffffff" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Colortextclearandnotificationsettings" android:key="asc_clear_button_color" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ff000000" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="ColorofBackgroundbehindNotifications" android:key="asc_hide_bg_bg_color" android:dependency="asc_notif_main_switch_bg" android:defaultValue="\#ffeeeeee" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="GIFAnimations">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="GifAnimationatbottomcenter" android:key="asc_show_gif_animation" android:summaryOn="enabled" android:summaryOff="disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:title="Selectanimation" android:key="gif_image_style" android:defaultValue="0" app:packageNameToKill="com.android.systemui" app:isSilent="false" app:drawableArray="@array/gif_animation_drawable" app:entryList="@array/gif_animation_entries" app:entryValuesList="@array/gif_animation_entries_values" />
+    </PreferenceCategory>
+</PreferenceScreen>

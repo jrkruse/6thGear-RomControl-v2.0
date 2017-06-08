@@ -1,86 +1,742 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016
-        This program is free software: you can redistribute it and/or modify
-        it under the terms of the GNU General Public License as published by
-        the Free Software Foundation, either version 3 of the License, or
-        (at your option) any later version.
-
-        This program is distributed in the hope that it will be useful,
-        but WITHOUT ANY WARRANTY; without even the implied warranty of
-        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-        GNU General Public License for more details.
-
-        You should have received a copy of the GNU General Public License
-        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
-
+    <array name="about_contact_us_drawables">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@drawable/icon_3</item>
+    </array>
+    <string-array name="about_contact_us_links">
+        <item>http://www.nonamerom.es/</item>
+        <item>https://goo.gl/di3cCy</item>
+        <item>https://www.youtube.com/watch?v=zzEJXGj1YBc</item>
+    </string-array>
+    <string-array name="about_contact_us_text">
+        <item>Forum</item>
+        <item>Donation</item>
+        <item>Youtube Channel</item>
+    </string-array>
+    <array name="about_credits_drawables">
+        <item>@drawable/icon_1</item>
+        <item>@drawable/icon_3</item>
+        <item>@drawable/icon_3</item>
+        <item>@drawable/icon_3</item>
+    </array>
+    <string-array name="about_credits_links">
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+    </string-array>
+    <string-array name="about_credits_names">
+        <item>I want to thank Elxufas for his full cooperation given selflessly to this TEAM, THANK YOU.</item>
+        <item>I want to thank all users who are using NoNaMe Rom. Without them this project would not be what it is, THANK YOU.</item>
+        <item>In addition, this would not be possible without the developers of the kitchen, apktools, SuperSU, modders and others, which are so many that I could not name them all and forgot for a few for sure, thanks to all.</item>
+        <item>And last but not least, my family, who always supports me in my hobby which takes much time. Thanks for your understanding.</item>
+    </string-array>
+    <array name="about_team_drawables">
+        <item>@drawable/icon_4</item>
+        <item>@drawable/icon_5</item>
+        <item>@drawable/icon_6</item>
+        <item>@drawable/icon_8</item>
+        <item>@drawable/icon_9</item>
+        <item>@drawable/icon_2</item>
+        <item>@drawable/icon_0</item>
+        <item>@drawable/victor</item>
+        <item>@drawable/elbueno</item>
+    </array>
+    <string-array name="about_team_links">
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+        <item>http://www.nonamerom.es/</item>
+    </string-array>
+    <string-array name="about_team_names">
+        <item>Sanoc69 - Developer</item>
+        <item>Guardiolija - Betatester</item>
+        <item>Jorjolo69 - Betatester</item>
+        <item>Sttargate - Betatester-Tematizador</item>
+        <item>Arrow89 - Betatester-Tematizador</item>
+        <item>Standbyyy - Betatester</item>
+        <item>Okerii Iñaki - Betatester</item>
+        <item>YukiChan456 - Betatester</item>
+        <item>Victor - Betatester</item>
+        <item>Elbueno - Betatester</item>
+    </string-array>
+    <string-array name="backup_restore_items">
+        <item>Backup configuración</item>
+        <item>Restaurar configuración</item>
+    </string-array>
+    <string-array name="battery_bar_entries">
+        <item>Hide</item>
+        <item>Show</item>
+    </string-array>
+    <string-array name="battery_bar_style_entries">
+        <item>Standard</item>
+        <item>Center</item>
+    </string-array>
+    <string-array name="battery_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_entries">
+        <item>1 dp</item>
+        <item>2 dp</item>
+        <item>3 dp</item>
+        <item>4 dp</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="battery_bar_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="changelog_items">
+        <item>Added NoNaMe ROM Control 2.1</item>
+        <item>Added network traffic Customization Options</item>
+        <item>Added 3Minit Battery</item>
+        <item>Added choice between 3Minit Battery / Stock in Status Bar</item>
+        <item>Add transition effects Desktop TW Launcher</item>
+        <item>Add Number of visible notifications in Lock Screen</item>
+        <item>Enable / Hide Favorites Settings</item>
+        <item>Add Reset Menu Advanced customization options</item>
+        <item>Added customize clock and date on Status Bar</item>
+        <item>Added color icons in Status Bar</item>
+        <item>Added icons position Wifi, Data and Signal Status Bar</item>
+        <item>Add Custom operator text on the Status Bar Lock and color adjustment</item>
+        <item>Add data usage settings on Notification Bar</item>
+        <item>Added operator text on notification bar</item>
+        <item>Added call recording configuration</item>
+        <item>And more that will be added.......</item>
+    </string-array>
+    <string-array name="clock_date_display_entries">
+        <item>Hide Date</item>
+        <item>Small Date</item>
+        <item>Standard Date</item>
+    </string-array>
+    <string-array name="clock_date_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_format_entries_values">
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-dd-MM</item>
+        <item>dd-MM-yyyy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MMM dd</item>
+        <item>MMM dd, yyyy</item>
+        <item>MMMM dd, yyyy</item>
+        <item>EEE</item>
+        <item>EEE dd</item>
+        <item>EEE dd/MM</item>
+        <item>EEE MM/dd</item>
+        <item>EEE dd MMM</item>
+        <item>EEE MMM dd</item>
+        <item>EEE MMMM dd</item>
+        <item>EEEE dd/MM</item>
+        <item>EEEE MM/dd</item>
+    </string-array>
+    <string-array name="clock_date_style_entries">
+        <item>Normal date</item>
+        <item>Lowercase date</item>
+        <item>Uppercase date</item>
+    </string-array>
+    <string-array name="clock_date_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_font_style_entries">
+        <item>Bold</item>
+        <item>Condensed</item>
+        <item>Light</item>
+        <item>Light Italic</item>
+        <item>Use System Font (restart UI to set)</item>
+        <item>Chococooky</item>
+        <item>Coming Soon</item>
+        <item>Cool Jazz</item>
+        <item>Lindsey for Samsung</item>
+        <item>MTL</item>
+    </string-array>
+    <string-array name="clock_font_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="clock_format_entries">
+        <item>Normal clock</item>
+        <item>Funky clock</item>
+        <item>Word clock</item>
+    </string-array>
+    <string-array name="clock_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Center</item>
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="crop_entries">
+        <item>Centered</item>
+        <item>Centered on the inside</item>
+        <item>Adjust</item>
+    </string-array>
+    <string-array name="crop_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries">
+        <item>Image</item>
+        <item>Color</item>
+        <item>Gradient</item>
+    </string-array>
+    <string-array name="custom_bg_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_status_bar_am_pm">
+        <item>Hide</item>
+        <item>Little AM/PM</item>
+        <item>Standard AM/PM</item>
+    </string-array>
+    <string-array name="gradient_entries">
+        <item>From top to bottom</item>
+        <item>From bottom to top</item>
+        <item>From left to right</item>
+        <item>From right to left</item>
+    </string-array>
+    <string-array name="gradient_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <array name="nav_menu_prefs_drawables">
+        <item>@drawable/ic_custom_backgrounds</item>
+        <item>@drawable/ic_framework</item>
+        <item>@drawable/ic_lockscreen</item>
+        <item>@drawable/ic_notification_panel</item>
+        <item>@drawable/ic_phone</item>
+        <item>@drawable/ic_system_ui</item>
+        <item>@drawable/ic_useful_apps</item>
+    </array>
+    <string-array name="nav_menu_prefs_titles">
+        <item>@string/custom_backgrounds_prefs</item>
+        <item>@string/framework_prefs</item>
+        <item>@string/lockscreen_prefs</item>
+        <item>@string/notification_panel_prefs</item>
+        <item>@string/phone_prefs</item>
+        <item>@string/systemui_prefs</item>
+        <item>@string/useful_apps_prefs</item>
+    </string-array>
+    <string-array name="nav_menu_xml_file_names">
+        <item>custom_backgrounds_prefs</item>
+        <item>launcher</item>
+        <item>lockscreen_prefs</item>
+        <item>notification_panel_prefs</item>
+        <item>phone_prefs</item>
+        <item>systemui</item>
+        <item>useful_apps_prefs</item>
+    </string-array>
     <string-array name="test_list_entries">
         <item>One</item>
         <item>Two</item>
         <item>Three</item>
-        <item>Let\'s make twenty</item>
+        <item>Twenty</item>
     </string-array>
-    <string-array name="test_list_values" translatable="false">
+    <string-array name="test_list_values">
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>20</item>
     </string-array>
     <string-array name="theme_items">
-        <item>Light theme</item>
-        <item>Dark theme</item>
-    </string-array>
-    <string-array name="backup_restore_items">
-        <item>Backup data</item>
-        <item>Restore data</item>
-    </string-array>
-
-    <string-array name="thumbnail_items">
-        <item>Icon 1</item>
-        <item>Icon 2</item>
-    </string-array>
-    <string-array name="thumbnail_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
     </string-array>
     <array name="thumbnail_drawables">
         <item>@drawable/icon_6</item>
         <item>@drawable/icon_5</item>
     </array>
-
-    <string-array name="custom_bg_type_entries">
-        <item>Image</item>
-        <item>Solid color</item>
-        <item>Gradient</item>
+    <string-array name="thumbnail_items">
+        <item>Icon 1</item>
+        <item>Icon 2</item>
     </string-array>
-    <string-array name="custom_bg_type_values" translatable="false">
+    <string-array name="thumbnail_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tw_effect_entries">
+        <item>All</item>
+        <item>Cascade</item>
+        <item>Cube Outside</item>
+        <item>Cube Inside</item>
+        <item>Carousel</item>
+        <item>Flat effect</item>
+        <item>Transporter</item>
+        <item>Cards</item>
+    </string-array>
+    <string-array name="tw_effect_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="values_status_bar_am_pm">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="gradient_entries">
-        <item>Top to bottom</item>
-        <item>Bottom to top</item>
-        <item>Left to right</item>
-        <item>Right to left</item>
-
+    <string-array name="carrier_entries">
+        <item>Operator Text</item>
+        <item>Custom text</item>
     </string-array>
-    <string-array name="gradient_values" translatable="false">
+    <string-array name="carrier_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="launcher_gesture_entries">
+        <item>Shutdown Screen</item>
+        <item>Reboot Menu Extended</item>
+        <item>Recent Apps</item>
+        <item>Volume +</item>
+        <item>Volume -</item>
+        <item>Marker</item>
+        <item>Search with Google</item>
+        <item>Sound / Vibration / Mute: Sound Mode</item>
+        <item>Torch</item>
+        <item>Screenshot</item>
+        <item>Notification</item>
+        <item>Enable / Disable Wi-Fi</item>
+        <item>Enable / Disable Mobile</item>
+        <item>Enable / Disable Bluetooth</item>
+        <item>Clean Memory</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="launcher_gesture_values">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="button_key_light_entries">
+        <item>Always off</item>
+        <item>1 second</item>
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>60 seconds</item>
+    </string-array>
+    <string-array name="button_key_light_values">
+        <item>0</item>
+        <item>1000</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+    </string-array>
+    <string-array name="widget_entries">
+        <item>Hide Widgets</item>
+        <item>Weather Widget 1</item>
+        <item>Analog Clock 1</item>
+        <item>Analog Clock 2</item>
+        <item>Analog Clock 3</item>
+        <item>Analog Clock 4</item>
+        <item>Analog Clock 5</item>
+        <item>Analog Clock 6</item>
+        <item>Analog Clock 7</item>
+        <item>Analog Clock 8</item>
+        <item>Analog Clock 9</item>
+        <item>Analog Clock 10</item>
+        <item>Analog Clock 11</item>
+        <item>Analog Clock 12</item>
+        <item>Analog Clock 13</item>
+        <item>Analog Clock 14</item>
+        <item>Analog Clock 15</item>
+        <item>Analog Clock 16</item>
+        <item>Analog Clock 17</item>
+        <item>Analog Clock 18</item>
+    </string-array>
+    <string-array name="widget_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <array name="widget_drawables">
+        <item>@drawable/nowidget</item>
+        <item>@drawable/weather</item>
+        <item>@drawable/clock_style1</item>
+        <item>@drawable/clock_style2</item>
+        <item>@drawable/clock_style3</item>
+        <item>@drawable/clock_style4</item>
+        <item>@drawable/clock_style5</item>
+        <item>@drawable/clock_style6</item>
+        <item>@drawable/clock_style7</item>
+        <item>@drawable/clock_style8</item>
+        <item>@drawable/clock_style9</item>
+        <item>@drawable/clock_style10</item>
+        <item>@drawable/clock_style11</item>
+        <item>@drawable/clock_style12</item>
+        <item>@drawable/clock_style13</item>
+        <item>@drawable/clock_style14</item>
+        <item>@drawable/clock_style15</item>
+        <item>@drawable/clock_style16</item>
+        <item>@drawable/clock_style17</item>
+        <item>@drawable/clock_style18</item>
+    </array>
+    <string-array name="ambient_light_entries">
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>20 seconds</item>
+    </string-array>
+    <string-array name="ambient_light_values">
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+    </string-array>
+    <string-array name="immersive_entries">
+        <item>Immersive Off (Default)</item>
+        <item>Immersive On (FullScreen)</item>
+    </string-array>
+    <string-array name="immersive_values">
+        <item>immersive.full</item>
+        <item>immersive.full=*</item>
+    </string-array>
+    <string-array name="SignalPositionName">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+    <string-array name="SignalPositionValue">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="signal_entries">
+        <item>Signal 1 (Stock)</item>
+        <item>Signal 2</item>
+        <item>Signal 3</item>
+        <item>Signal 4</item>
+        <item>Signal 5</item>
+        <item>Signal 6</item>
+        <item>Signal 7</item>
+        <item>Signal 8</item>
+        <item>Signal 9</item>
+        <item>Signal 10</item>
+        <item>Signal 11</item>
+        <item>Signal 12</item>
+        <item>Signal 13</item>
+        <item>Signal 14</item>
+        <item>Signal 15</item>
+        <item>Signal 16</item>
+    </string-array>
+    <string-array name="signal_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <array name="signal_drawables">
+        <item>@drawable/signalstyle1</item>
+        <item>@drawable/signalstyle2</item>
+        <item>@drawable/signalstyle3</item>
+        <item>@drawable/signalstyle4</item>
+        <item>@drawable/signalstyle5</item>
+        <item>@drawable/signalstyle6</item>
+        <item>@drawable/signalstyle7</item>
+        <item>@drawable/signalstyle8</item>
+        <item>@drawable/signalstyle9</item>
+        <item>@drawable/signalstyle10</item>
+        <item>@drawable/signalstyle11</item>
+        <item>@drawable/signalstyle12</item>
+        <item>@drawable/signalstyle13</item>
+        <item>@drawable/signalstyle14</item>
+        <item>@drawable/signalstyle15</item>
+        <item>@drawable/signalstyle16</item>
+    </array>
+    <string-array name="wifi_entries">
+        <item>Wifi 1</item>
+        <item>Wifi 2</item>
+        <item>Wifi 3</item>
+        <item>Wifi 4</item>
+        <item>Wifi 5</item>
+        <item>Wifi 6</item>
+        <item>Wifi 7</item>
+        <item>Wifi 8</item>
+        <item>Wifi 9</item>
+        <item>Wifi 10</item>
+        <item>Wifi 11</item>
+        <item>Wifi 12</item>
+    </string-array>
+    <string-array name="wifi_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <array name="wifi_drawables">
+        <item>@drawable/wifistyle1</item>
+        <item>@drawable/wifistyle2</item>
+        <item>@drawable/wifistyle3</item>
+        <item>@drawable/wifistyle4</item>
+        <item>@drawable/wifistyle5</item>
+        <item>@drawable/wifistyle6</item>
+        <item>@drawable/wifistyle7</item>
+        <item>@drawable/wifistyle8</item>
+        <item>@drawable/wifistyle9</item>
+        <item>@drawable/wifistyle10</item>
+        <item>@drawable/wifistyle11</item>
+        <item>@drawable/wifistyle12</item>
+    </array>
+    <string-array name="wifiarrow_entries">
+        <item>Stockactivityarrows</item>
+        <item>Noarrowsforbigwifiicons</item>
+    </string-array>
+    <string-array name="wifiarrow_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <array name="wifiarrow_drawables">
+        <item>@drawable/arrowstyle1</item>
+        <item>@drawable/arrowstyle2</item>
+    </array>
+    <string-array name="gif_animation_entries">
+        <item>Abstract</item>
+        <item>A Cube</item>
+        <item>Alien Twerking</item>
+        <item>NoNaMe</item>
+        <item>Bad Skeleton</item>
+        <item>Battle Stance</item>
+        <item>Bic Lighter</item>
+        <item>Bird</item>
+        <item>Boob Shoots</item>
+        <item>Brian Peanut Butter Jely Time</item>
+        <item>Butterfly</item>
+        <item>Butt Shake</item>
+        <item>Cats</item>
+        <item>Chester Cheto</item>
+        <item>Cool A Pe</item>
+        <item>Dancing Elsa</item>
+        <item>Double Meaning</item>
+        <item>Eyeball</item>
+        <item>M M</item>
+        <item>Pif With Bacon</item>
+        <item>Please No</item>
+        <item>Rotating Skeleton On Chair</item>
+        <item>Skeleton Cutting Food</item>
+        <item>Skeleton No Ice Cream</item>
+        <item>Skeleton Wave</item>
+        <item>Skelton Eating Chetos</item>
+        <item>Stitch</item>
+        <item>Stitch Bra Head</item>
+        <item>Stitch Drop</item>
+        <item>Waiting Skeleton</item>
+        <item>Walking Dead Birth</item>
+        <item>Walking Wolf</item>
+        <item>Waving Froven</item>
+    </string-array>
+    <array name="gif_animation_drawable">
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a13</item>
+        <item>@drawable/a14</item>
+        <item>@drawable/a15</item>
+        <item>@drawable/a16</item>
+        <item>@drawable/a17</item>
+        <item>@drawable/a18</item>
+        <item>@drawable/a19</item>
+        <item>@drawable/a20</item>
+        <item>@drawable/a21</item>
+        <item>@drawable/a22</item>
+        <item>@drawable/a23</item>
+        <item>@drawable/a24</item>
+        <item>@drawable/a25</item>
+        <item>@drawable/a26</item>
+        <item>@drawable/a27</item>
+        <item>@drawable/a28</item>
+        <item>@drawable/a29</item>
+        <item>@drawable/a30</item>
+        <item>@drawable/a31</item>
+        <item>@drawable/a32</item>
+        <item>@drawable/a33</item>
+    </array>
+    <string-array name="gif_animation_entries_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="dsb_gradient_filter_entries">
+        <item>Off</item>
+        <item>Only on the desktop</item>
+        <item>Everywhere except the desktop</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="dsb_gradient_filter_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-
     </string-array>
-
-    <string-array name="crop_entries">
-        <item>Center crop</item>
-        <item>Center inside</item>
-        <item>Fit XY</item>
+    <string-array name="data_usage_gravity_entries">
+        <item>To end</item>
+        <item>Center horizontal</item>
+        <item>To start</item>
     </string-array>
-    <string-array name="crop_values" translatable="false">
+    <string-array name="data_usage_gravity_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="data_usage_text_style_entries">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold italic</item>
+    </string-array>
+    <string-array name="data_usage_text_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="torchlight_timeout_entries">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>10 minutes</item>
+    </string-array>
+    <string-array name="torchlight_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>600000</item>
     </string-array>
 </resources>

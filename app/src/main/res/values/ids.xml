@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="home" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="up" />
+    <item type="id" name="view_offset_helper" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollIndicatorUp">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="scrollIndicatorDown">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="submenuarrow">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="aboutContactUsContainer">false</item>
+    <item type="id" name="aboutTeamContainer">false</item>
+    <item type="id" name="aboutCreditsContainer">false</item>
+    <item type="id" name="contactUsImage">false</item>
+    <item type="id" name="contactUsText">false</item>
+    <item type="id" name="aboutPeopleIcon">false</item>
+    <item type="id" name="aboutPeopleText">false</item>
+    <item type="id" name="main.appbar">false</item>
+    <item type="id" name="main.collapsing">false</item>
+    <item type="id" name="main.backdrop">false</item>
+    <item type="id" name="aboutToolbar">false</item>
+    <item type="id" name="drawer_layout">false</item>
+    <item type="id" name="nav_view">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="appIcon">false</item>
+    <item type="id" name="linearLayout">false</item>
+    <item type="id" name="appName">false</item>
+    <item type="id" name="appPackage">false</item>
+    <item type="id" name="changelogText">false</item>
+    <item type="id" name="fragment_container">false</item>
+    <item type="id" name="touch_outside">false</item>
+    <item type="id" name="design_bottom_sheet">false</item>
+    <item type="id" name="snackbar_text">false</item>
+    <item type="id" name="snackbar_action">false</item>
+    <item type="id" name="navigation_header_container">false</item>
+    <item type="id" name="design_navigation_view">false</item>
+    <item type="id" name="design_menu_item_text">false</item>
+    <item type="id" name="design_menu_item_action_area_stub">false</item>
+    <item type="id" name="design_menu_item_action_area">false</item>
+    <item type="id" name="text_input_password_toggle">false</item>
+    <item type="id" name="color_picker_view">false</item>
+    <item type="id" name="text_hex_wrapper">false</item>
+    <item type="id" name="hex_val">false</item>
+    <item type="id" name="old_color_panel">false</item>
+    <item type="id" name="new_color_panel">false</item>
+    <item type="id" name="restoreItems">false</item>
+    <item type="id" name="searchApp">false</item>
+    <item type="id" name="appsList">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="iconForApp">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="line3">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="rebootFab">false</item>
+    <item type="id" name="rebootText">false</item>
+    <item type="id" name="rebootMenuMain">false</item>
+    <item type="id" name="protectiveView">false</item>
+    <item type="id" name="rebootContainer">false</item>
+    <item type="id" name="rebootDevice">false</item>
+    <item type="id" name="rebootRecovery">false</item>
+    <item type="id" name="rebootUI">false</item>
+    <item type="id" name="mainSeekBarWidgetContainer">false</item>
+    <item type="id" name="valueText">false</item>
+    <item type="id" name="seekBarPrefSlider">false</item>
+    <item type="id" name="minValueText">false</item>
+    <item type="id" name="maxValueText">false</item>
+    <item type="id" name="thumbnailRadioButton">false</item>
+    <item type="id" name="thumbnailImage">false</item>
+    <item type="id" name="thumbnailText">false</item>
+    <item type="id" name="thumbnailListView">false</item>
+    <item type="id" name="thumbnailIcon">false</item>
+    <item type="id" name="themes">false</item>
+    <item type="id" name="backup_restore">false</item>
+    <item type="id" name="changeLog">false</item>
+    <item type="id" name="about_us">false</item>
+    <item type="id" name="rebootMenu">false</item>
+</resources>

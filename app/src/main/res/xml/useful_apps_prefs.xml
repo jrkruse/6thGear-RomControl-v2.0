@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceScreen android:title="Force Restart SystemUI" android:summary="Restart SystemUI On NonRooted Devices ">
+        <intent android:targetPackage="com.android.systemui" android:targetClass="com.android.keyguard.wallpaper.KeyguardWallpaperPreviewActivity" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title=" ROM TOOLS">
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:title="DNS66" android:summary="Ad Blocking" app:componentName="org.jak_linux.dns66/org.jak_linux.dns66.MainActivity" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:summary="Device Information" app:componentName="com.sammobile.app.deviceinfo/com.sammobile.app.deviceinfo.MainActivity" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:title="VolumeControl" android:summary="Volume Control Panel Mods" app:componentName="com.greatbytes.soundhud/com.greatbytes.soundhud.activities.ConfigurationActivity" />
+    </PreferenceCategory>
+</PreferenceScreen>
